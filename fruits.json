@@ -1,0 +1,10 @@
+{
+    "firstname": "John",
+    "age": 42,
+    "weight": 65.6,
+    "wife": null,
+    "pet": { "type": "Dog" },
+    "favouriteColors": ["red", "green", "blue"],
+    "married": false,
+    "hasACompany": true
+}
